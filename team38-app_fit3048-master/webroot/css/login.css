@@ -1,0 +1,27 @@
+*{ margin:0px; padding:0px;}
+body 
+{
+    line-height:1.5;
+    font-family:Helvetica;
+}
+a{ text-decoration:none;}
+ul,li{ list-style:none; }
+.img{ position:absolute; right:10%; top:10%; text-align:center; }
+.img img{ width:500px; }
+.img p{ color:#fff; font-size:24px; position:absolute; left:0px; width:100%; text-align:center; top:40%; font-weight:bolder; }
+.img1{ width:400px; }
+.img2{ width:300px; position:absolute; bottom:100px; left:9%;  }
+.login{ position:fixed; width:100%; height:100%; }
+.bottom{ position:absolute; left:0px; bottom:0px; height:100px; background:#0094de; width:100%; }
+
+.box{ width:454px; height:553px; box-shadow: 0 0 10px rgba(0,0,0,.3); border-radius:10px; position:absolute; left:15%; top:50%; margin-top:-300px; background:#fff;  }
+form{ padding:0px 50px 70px;}
+form .form{ padding:0px 60px; margin:50px 0px; }
+form .form p{ margin-bottom:5px; }
+.form input{ width:100%; border:0px; border-bottom:1px solid #888888; padding:5px 0px; }
+.for{ margin:30px 0px !important; text-align:center; }
+.for a{ color:#888888; text-decoration:underline; }
+.box .logo{ text-align:center; margin-top:50px;vertical-align:middle;  }
+.box .logo img{ vertical-align:middle; margin-right:10px; }
+.box .logo span{ display:inline-block; font-size:24px; font-weight:bolder; color:#0094de; line-height:70px; vertical-align: middle; }
+.btn button{ width:100%; background:#87aa56; border:0px; border-radius:5px; color:#fff; line-height:40px; }
